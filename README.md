@@ -4,7 +4,6 @@
 2. 打游戏
 3. 踢足球
 4. 唱歌
-这是[我的照片]（bingbing.jpeg）
 
 我会的语言
 * 英语
@@ -15,3 +14,6 @@
 ```
 print"hello world"
 ```
+
+这是我的照片
+！[我的照片]（E:/demo/blog/bingbing.jpeg）
