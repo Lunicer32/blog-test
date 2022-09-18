@@ -16,4 +16,4 @@ print"hello world"
 ```
 
 这是我的照片
-![我的照片](E:\demo\blog\bingbing.jpeg)
+![我的照片]<img src="bingbing.jpeg" width="40%" height="40%">
